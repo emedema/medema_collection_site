@@ -1,0 +1,37 @@
+body{
+    background-color: #2c2b2b;
+    color: #d4cbcb;
+    font-family:'Courier New', Courier, monospace;
+}
+a{
+    color: #a8b5f1;
+}
+a:hover{
+    color: #808bbb
+}
+.text_body{
+    margin-left: 3em;
+    margin-right: 3em;
+}
+.scrollthing{
+    background-image: url("images/safari_tree.png");
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.rocky_img{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+figcaption{
+    font-style: italic;
+    text-align: center;
+}
